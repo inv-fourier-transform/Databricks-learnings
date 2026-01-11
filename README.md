@@ -14,3 +14,12 @@
 - Learned why Spark uses lazy evaluation and when execution is triggered
 - Used Databricks notebook magic commands (`%python`, `%sql`, `%fs`)
 - Ran operations using filter, select, groupBy, orderBy
+
+### Day 3 – PySpark Data Operations
+
+- Compared PySpark and Pandas for large-scale data processing
+- Performed joins (inner, left, right, outer) on Spark DataFrames
+- Used window functions for running totals and rankings
+- Understood window functions vs groupBy aggregations
+- Learned when and why to use (or avoid) User-Defined Functions (UDFs)
+
