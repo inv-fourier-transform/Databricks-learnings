@@ -23,3 +23,13 @@
 - Understood window functions vs groupBy aggregations
 - Learned when and why to use (or avoid) User-Defined Functions (UDFs)
 
+### Day 4 – Delta Lake Fundamentals
+
+- Learned what Delta Lake is and how it adds reliability on top of Parquet
+- Understood ACID transactions and their role in safe concurrent reads/writes
+- Clearly distinguished ACID Consistency from Schema Enforcement
+- Learned how schema enforcement prevents invalid data from entering tables
+- Created Delta tables using managed approach
+- Observed with examples how schema enforcement works
+
+
