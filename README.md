@@ -32,4 +32,12 @@
 - Created Delta tables using managed approach
 - Observed with examples how schema enforcement works
 
+### Day 5 – Delta Lake Advanced Operations
+
+- Learned Delta Lake time travel and table version history
+- Understood MERGE operations for safe upserts
+- Learned how OPTIMIZE reduces small files and improves read performance
+- Understood ZORDER for clustering data after OPTIMIZE to speed up queries
+- Learned how VACUUM cleans up old data and affects time travel
+
 
