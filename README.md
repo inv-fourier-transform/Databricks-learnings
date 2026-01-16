@@ -48,3 +48,12 @@
 - Understood common incremental processing patterns (timestamp-based, ID-based, change-based)
 - Learned why incrementality must be applied across Bronze, Silver, and Gold layers
 
+
+### Day 7 – Databricks Jobs & Workflows
+
+- Understood the difference between Databricks notebooks and Jobs
+- Learned how multi-task workflows model pipelines as dependent tasks
+- Learned how parameters make jobs reusable without changing code
+- Understood scheduling for automated, reliable job execution
+- Learned the importance of error handling, retries, and fail-fast behaviour
+
