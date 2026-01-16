@@ -40,4 +40,11 @@
 - Understood ZORDER for clustering data after OPTIMIZE to speed up queries
 - Learned how VACUUM cleans up old data and affects time travel
 
+## Day 6 – Medallion Architecture & Incremental Processing
+
+- Learned the Bronze → Silver → Gold (Medallion) architecture and responsibilities of each layer
+- Understood best practices for raw, cleaned, and business-ready data layers
+- Learned the concept of incremental processing and why it is essential at scale
+- Understood common incremental processing patterns (timestamp-based, ID-based, change-based)
+- Learned why incrementality must be applied across Bronze, Silver, and Gold layers
 
