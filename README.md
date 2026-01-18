@@ -57,3 +57,9 @@
 - Understood scheduling for automated, reliable job execution
 - Learned the importance of error handling, retries, and fail-fast behaviour
 
+### Day 8 – Data Governance & Organization
+
+- Learned the Catalog → Schema → Table hierarchy in Databricks
+- Understood access control using GRANT and REVOKE
+- Learned the importance of data lineage for debugging and impact analysis
+- Understood the difference between managed and external tables and when to use each
