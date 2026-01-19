@@ -70,3 +70,10 @@
 - Learned how dashboards present curated business insights
 - Understood the role of visualizations and filters for interactive analytics
 
+### Day 10 – Query Performance & Optimization
+
+- Learned how query execution plans determine how SQL queries are executed
+- Understood partitioning strategies for efficient data skipping
+- Learned how OPTIMIZE reduces small file overhead
+- Understood how ZORDER improves data skipping within partitions
+- Learned when and when not to use caching for faster query performance
