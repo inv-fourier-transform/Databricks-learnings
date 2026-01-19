@@ -1,4 +1,4 @@
-## Databricks-learnings
+## Databricks - A high level summary of my day-wise learnings
 ### Day 1 – Databricks Basics
 
 - Understood what Databricks is and why it is used over Pandas and Hadoop for large-scale data processing
@@ -48,7 +48,6 @@
 - Understood common incremental processing patterns (timestamp-based, ID-based, change-based)
 - Learned why incrementality must be applied across Bronze, Silver, and Gold layers
 
-
 ### Day 7 – Databricks Jobs & Workflows
 
 - Understood the difference between Databricks notebooks and Jobs
@@ -63,3 +62,11 @@
 - Understood access control using GRANT and REVOKE
 - Learned the importance of data lineage for debugging and impact analysis
 - Understood the difference between managed and external tables and when to use each
+
+### Day 9 – Analytics with Databricks SQL
+
+- Learned the role of SQL Warehouses for fast, isolated analytical workloads
+- Understood complex analytical queries for trends, comparisons, and rankings
+- Learned how dashboards present curated business insights
+- Understood the role of visualizations and filters for interactive analytics
+
