@@ -77,3 +77,10 @@
 - Learned how OPTIMIZE reduces small file overhead
 - Understood how ZORDER improves data skipping within partitions
 - Learned when and when not to use caching for faster query performance
+
+### Day 11 – Analytics & Experimentation
+
+- Learned how to use descriptive statistics in PySpark to understand data distributions
+- Understood hypothesis testing to distinguish signal from noise
+- Learned how to design A/B tests using control and treatment groups
+- Practiced real feature engineering to convert raw data into meaningful patterns
