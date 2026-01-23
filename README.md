@@ -84,3 +84,11 @@
 - Understood hypothesis testing to distinguish signal from noise
 - Learned how to design A/B tests using control and treatment groups
 - Practiced real feature engineering to convert raw data into meaningful patterns
+
+### Day 12 – MLflow
+
+- Learned core MLflow components: Tracking, Models, & Model Registry
+- Understood experiment tracking using runs, parameters, metrics, & artifacts
+- Learned why model logging is essential beyond saving plain serialized `.pkl` files
+- Understood how the MLflow UI is used to compare runs & manage model lifecycle
+
