@@ -92,3 +92,11 @@
 - Learned why model logging is essential beyond saving plain serialized `.pkl` files
 - Understood how the MLflow UI is used to compare runs & manage model lifecycle
 
+### Day 13 – Spark ML Pipeline
+
+- Trained multiple models (Linear, Decision Tree, Random Forest) & compared performance using R² metrics.
+- Implemented MLflow tracking for model parameters, metrics, & artifacts.
+- Built Spark ML Pipelines to automate feature assembly & model training in a reproducible workflow.
+- Learned difference between Estimators (learn from data) & Transformers (transform data without learning).
+- Evaluated feature importance & practiced hyperparameter tuning for better model performance.
+- Compared scikit-learn & Spark ML models to select the best model for deployment.
