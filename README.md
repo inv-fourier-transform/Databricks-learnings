@@ -100,3 +100,13 @@
 - Learned difference between Estimators (learn from data) & Transformers (transform data without learning).
 - Evaluated feature importance & practiced hyperparameter tuning for better model performance.
 - Compared scikit-learn & Spark ML models to select the best model for deployment.
+
+### Day 14 – AI & Analytics in Databricks
+
+- Explored Databricks AI capabilities for analytics & ML workflows.
+- Used Databricks Genie to convert natural language questions into SQL queries.
+- Queried business metrics directly from Lakehouse tables using Genie.
+- Explored Mosaic AI through a simple NLP sentiment analysis task.
+- Generated synthetic reviews for existing Gold layer data table without creating new datasets.
+- Applied a pre-trained transformer model for binary sentiment classification.
+- Tracked experiments, parameters, & metrics using MLflow.
